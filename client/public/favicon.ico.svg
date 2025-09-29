@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1080" height="1350" viewBox="0 0 1080 1350">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 136.95px;
+        fill: #0b21f1;
+        text-anchor: middle;
+        font-family: Anton;
+      }
+
+      .cls-2 {
+        fill: none;
+        stroke: #0b21f1;
+        stroke-width: 9.93px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <text id="Note_app.in" data-name="Note app.in" class="cls-1" x="540" y="722"><tspan x="540">Note app.in</tspan></text>
+  <path class="cls-2" d="M551,380.858c227.006,0,411.031,131.916,411.031,294.642S778.006,970.142,551,970.142,139.969,838.226,139.969,675.5,323.994,380.858,551,380.858Z"/>
+</svg>
