@@ -69,40 +69,37 @@ Frontend:
 cd frontend
 npm install
 npm start
-
 ## 📂 Project Structure
 
 ### 🧭 Frontend (`src/`)
 
 src/
-├─ api.js # Axios instance with baseURL and auth interceptor
+├─ api.js
 ├─ context/
-│ └─ AuthContext.js
+│  └─ AuthContext.js
 ├─ components/
-│ ├─ NoteForm.js
-│ ├─ NoteList.js
-│ └─ NoteDetails.js
+│  ├─ NoteForm.js
+│  ├─ NoteList.js
+│  └─ NoteDetails.js
 └─ pages/
-├─ Login.js
-├─ Signup.js
-└─ Dashboard.js
-
+   ├─ Login.js
+   ├─ Signup.js
+   └─ Dashboard.js
 
 ### ⚙️ Backend (`server/`)
 
-
 server/
 ├─ models/
-│ ├─ User.js
-│ └─ Note.js
+│  ├─ User.js
+│  └─ Note.js
 ├─ routes/
-│ ├─ auth.js
-│ └─ notes.js
+│  ├─ auth.js
+│  └─ notes.js
 ├─ middleware/
-│ └─ auth.js
+│  └─ auth.js
 ├─ controllers/
-│ ├─ authController.js
-│ └─ noteController.js
+│  ├─ authController.js
+│  └─ noteController.js
 └─ server.js
 
 Live Preview / Demo
